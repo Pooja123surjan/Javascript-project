@@ -1,3 +1,3 @@
 # Javascript-project
-This is Registration/Login form.
-autho-Pooja Surjan
+This is Registration/Login form.</br>
+author-Pooja Surjan
